@@ -19,6 +19,7 @@
     <ul>
         <li><a href="./api/functions/read.php"><strong>get all functions</strong></a></li>
         <li><a href="./api/functions/read_one.php?id=1"><strong>get one function</strong></a></li>
+        <li><a href="./api/functions/hr.php"><strong>get hr</strong></a></li>
     </ul>
 
 
